@@ -4,5 +4,7 @@ Mi Nombre es Saul y estoy aprendiendo
 
 a usar el sistema de control de versiones
 
-y nuevos cursos de programacion
+y nuevos cursos de DevOps y Desarollo Personal
+
+ademas aprendere a programar
 
